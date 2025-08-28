@@ -4,3 +4,4 @@ const balance =400;
  function updatebalance(value){
     balance+=value;
  }
+ console.log("hello world")
